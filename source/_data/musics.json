@@ -1,0 +1,29 @@
+[
+	{
+		"name": "戒烟",
+		"artist": "李荣浩",
+		"url": "/medias/music/jieyan.mp3",
+		"cover": "/medias/music/avatars/jieyan.jpg"
+	},{
+		"name": "流行歌曲",
+		"artist": "李荣浩",
+		"url": "/medias/music/liuxinggequ.mp3",
+		"cover": "/medias/music/avatars/liuxinggequ.jpg"
+	},{
+		"name": "年少有为",
+		"artist": "李荣浩",
+		"url": "/medias/music/nianshaoyouwei.mp3",
+		"cover": "/medias/music/avatars/nianshaoyouwei.jpg"
+	},{
+		"name": "我看着你的时候",
+		"artist": "李荣浩",
+		"url": "/medias/music/watch.mp3",
+		"cover": "/medias/music/avatars/watch.jpg"
+	},{
+		"name": "Fire",
+		"artist": "王一博",
+		"url": "/medias/music/Fire.mp3",
+		"cover": "/medias/music/avatars/xueniu.jpg"
+	}
+
+]
