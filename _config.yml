@@ -112,8 +112,8 @@ theme: matery
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  # repository: https://github.com/kugai805/kugai805.git
-  repository: git@github.com:kugai805/kugai805.github.io.git
+  repository: https://github.com/kugai805/kugai805.git
+  # repository: git@github.com:kugai805/kugai805.github.io.git
   branch: master
 # - type: coding
 #   repository: https://git.coding.net/godweiyang/godweiyang.github.io.git
