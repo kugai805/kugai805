@@ -117,7 +117,7 @@ deploy:
 # - type: coding
 #   repository: https://git.coding.net/godweiyang/godweiyang.github.io.git
 #   branch: master
-- type: baidu_url_submitter
+# - type: baidu_url_submitter
 
 
 live2d:
@@ -139,8 +139,8 @@ live2d:
   react:
     opacity: 0.7
 
-baidu_url_submit:
-  count: 100
-  host: gentlesiri.top
-  token: lpd0GDDApQhvyVlg
-  path: baidu_urls.txt
+# baidu_url_submit:
+#   count: 100
+#   host: gentlesiri.top
+#   token: lpd0GDDApQhvyVlg
+#   path: baidu_urls.txt
